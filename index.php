@@ -546,24 +546,80 @@
                                         </p>
                                     </div>
                                 </div>
-                            </div><!-- End testimonial item -->
+                            </div>
 
                             <div class="swiper-slide">
                                 <div class="testimonial-box">
                                     <div class="author-test">
-                                        <img src="assets/img/testimonial-4.jpg" alt=""
-                                             class="rounded-circle b-shadow-a">
-                                        <span class="author">Marta Socrate</span>
+                                        <div class="author circleFotoTestimonial"
+                                             style="margin: auto; background-image: url('assets/img/simonaRota.jpeg')">
+
+                                        </div>
+                                        <span class="author">Simona Rota</span>
                                     </div>
                                     <div class="content-test">
                                         <p class="description lead">
-                                            Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum
-                                            dolor sit amet,
-                                            consectetur adipiscing elit.
+                                            "Il potente spettacolo continua e tu puoi contribuire con un verso"
                                         </p>
                                     </div>
                                 </div>
-                            </div><!-- End testimonial item -->
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-box">
+                                    <div class="author-test">
+                                        <div class="author circleFotoTestimonial"
+                                             style="margin: auto; background-image: url('assets/img/alessandroScarcia.jpeg')">
+
+                                        </div>
+                                        <span class="author">Alessandro Scarcia</span>
+                                    </div>
+                                    <div class="content-test">
+                                        <p class="description lead">
+                                            "Sei un 1 o uno 0? <br>
+                                            La vita non è un codice binario. Certo, ci sono i grigi. Ma quando arrivi al nocciolo
+                                            della questione, dietro ogni scelta, c'é sempre un 1 o uno 0. O fai qualcosa o non la fai."
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-box">
+                                    <div class="author-test">
+                                        <div class="author circleFotoTestimonial"
+                                             style="margin: auto; background-image: url('assets/img/federicaRota.jpeg')">
+
+                                        </div>
+                                        <span class="author">Federica Rota</span>
+                                    </div>
+                                    <div class="content-test">
+                                        <p class="description lead">
+                                            "Anatra o coniglio?"
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-box">
+                                    <div class="author-test">
+                                        <div class="author circleFotoTestimonial"
+                                             style="margin: auto; background-image: url('assets/img/francescaMiccolis.jpeg')">
+
+                                        </div>
+                                        <span class="author">Francesca Miccolis</span>
+                                    </div>
+                                    <div class="content-test">
+                                        <p class="description lead">
+                                            "La struttura alare del carbone, in relazione al suo peso, non è adatta al volo, ma lui non lo sa
+                                            e vola lo stesso"
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End testimonial item -->
+
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
