@@ -542,7 +542,7 @@
                                     </div>
                                     <div class="content-test">
                                         <p class="description lead">
-                                            "Dic che sono un bravo fidansato ogni stanto"
+                                            "Think different and find balance"
                                         </p>
                                     </div>
                                 </div>
