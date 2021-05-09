@@ -460,7 +460,7 @@
                                 <div class="col-sm-8">
                                     <h2 class="w-title">Asporto e consgena a domicilio</h2>
                                     <div class="w-more">
-                      <span>Il cliente potrà scegliere se ritirare in negozio la tua merce oppure riceverla coodamente a casa.
+                      <span>Il cliente potrà scegliere se ritirare in negozio la tua merce oppure riceverla comodamente a casa.
                       NB. L'esercente è libero di offrire o meno questi servizi!</span>
                                     </div>
                                 </div>
